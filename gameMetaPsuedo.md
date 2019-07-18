@@ -29,7 +29,7 @@ let instructions = [1,2,3,4,5]
     <div class="row">
         <div class="col-12-ctr">
             Opponents Remaining:
-            <div id="opennentsLeftDiv"></div>
+            <div id="opponentsLeftDiv"></div>
         </div>    
     </div>
 
